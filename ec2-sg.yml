@@ -43,4 +43,3 @@ Resources:
     Type: "AWS::EC2::EIP"
     Properties:
       InstanceId: !Ref SimpleEC2Instance
-fhj
